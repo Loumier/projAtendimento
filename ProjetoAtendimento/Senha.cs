@@ -19,12 +19,12 @@ namespace ProjetoAtendimento
 
         public string dadosParciais()
         {
-            return id + ”-“ +DataGerac + ”-“ +HoraGerac + ”-“ +DataAtend + ”-“ +HoraAtend;
+            return (id + ”-“ +this.dataGerac + ”-“ + this.horaGerac).toString ;
         }
 
         public string dadosCompletos()
         {
-            return Console.WriteLine(id + ”-“ +DataGerac + ”-“ +HoraGerac + ”-“ +DataAtend + ”-“ +HoraAtend);
+            return Console.WriteLine(id + ”-“ + DataGerac + ”-“ +HoraGerac + ”-“ +DataAtend + ”-“ +HoraAtend);
         }
     }
 }

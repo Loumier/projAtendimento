@@ -13,7 +13,12 @@ namespace ProjetoAtendimento
 
         public Senhas()
         {
-            this.filaSenhas.Add(new Senha);
+            this.filaSenhas = new List<Senha>;
+        }
+
+        public void gerar()
+        {
+            
         }
     }
 }
