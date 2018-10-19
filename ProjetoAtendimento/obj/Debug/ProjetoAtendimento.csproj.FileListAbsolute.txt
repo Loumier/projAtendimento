@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoAtendimento\ProjetoAtendimento\bin\Debug\ProjetoAtendimento.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.exe
+c:\users\aluno\documents\visual studio 2015\Projects\ProjetoAtendimento\ProjetoAtendimento\obj\Debug\ProjetoAtendimento.pdb
